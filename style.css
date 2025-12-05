@@ -52,27 +52,19 @@ nav ul li a::after{
 nav ul li a:hover::after{
     width: 100%;
 }
-.header-text h{
-    font-size: 60px;
-    margin-top: 20px;
-}
 .header-text h1{
     padding-top: 15%;
     font-size: 60px;
-    text-align: center;
-    
-
+    text-align: center; 
 }
 .header-text h1 span{
     color: #f073dd;
     font-style: italic;
 }
-
-/* --------About------- */
-#about{
-    padding-top: 80px;
-    color: rgb(159, 157, 157);
-    margin-top: 15%;
+.header-text p{
+    font-style: oblique;
+    font-size: large;
+    line-height: 30px;
 }
 
 .sub-title{
